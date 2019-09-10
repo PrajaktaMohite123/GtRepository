@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.loginPage{
+	 margin: auto;
+  width: 20%;
+ border: 3px solid green;
+  padding: 40px;
+	
+}
+.registerPage{
+	margin: auto;
+  width: 20%;
+ border: 3px solid green;
+  padding: 40px;
+	
+}
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  
+}
